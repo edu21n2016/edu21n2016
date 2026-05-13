@@ -13,7 +13,7 @@ My technical toolkit includes Flutter, React Native, JavaScript, React, Node.js,
 I’m driven by a passion for turning ideas into real, impactful solutions and continuously pushing myself to learn, grow, and stay current with emerging technologies.
 
 * 🌍  I'm based in Ethiopia
-* 🖥️  See my portfolio at [MyPortfolio](http://https://edenneker.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://edenneker.netlify.app/)
 * ✉️  You can contact me at [eden22neker@gmail.com](mailto:eden22neker@gmail.com)
 * 🧠  I'm learning ui/ux,
 * 🤝  I'm open to collaborating on Project that solve real world problem
